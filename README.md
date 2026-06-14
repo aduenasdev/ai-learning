@@ -3,7 +3,13 @@
 Hands-on learning lab — notes and original code from the courses and technologies I work with.
 Each folder is a self-contained topic with its own README, study notes and runnable examples.
 
-## 📂 Topics
+## 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [`research-agent/`](research-agent/) | AI agent that answers questions with web + Wikipedia + Python tools (ReAct) | smolagents · Groq · Python |
+
+## 📂 Learning topics
 
 | Folder | Topic | Status | Certificate |
 |---|---|---|---|
